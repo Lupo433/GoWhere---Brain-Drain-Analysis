@@ -1,5 +1,8 @@
 streamlit
-pandas
+networkx
 matplotlib
-openpyxl
+scikit-learn
+pandas
 numpy
+pygraphviz
+plotly
