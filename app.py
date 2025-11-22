@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import openpyxl
 
 # --- FUNZIONE ---
 def consiglia_paesi(df, user_input, top_n=5):
